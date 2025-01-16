@@ -1,0 +1,40 @@
+﻿<Page x:Class="SIMSKT3.View.Doctor.Examination"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:SIMSKT3.View.Doctor"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Examination" Height="753" Width="1036" Background="#FFD0B8E5">
+    <Grid>
+        <ListView x:Name="lv_examination" HorizontalAlignment="Left" Height="253" Margin="282,54,0,0" VerticalAlignment="Top" Width="300" Foreground="#FF262C61" FontFamily="Arial" Background="White" >
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Width="150" Header="NAME" DisplayMemberBinding="{Binding name}"/>
+                    <GridViewColumn Width="150" Header="JMBG" DisplayMemberBinding="{Binding jmbg}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Button Content="Choose patient (Ctrl+W)" Background="#FF8AB3F0" HorizontalAlignment="Left" Margin="361,19,0,0" VerticalAlignment="Top" Width="142" Height="30" Click="read_all" BorderBrush="#FF262C61" Foreground="#FF262C61" RenderTransformOrigin="0.5,0.5" >
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="1"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Button Content="View report (Ctrl+E)" Background="#FF8AB3F0" HorizontalAlignment="Left" Margin="361,312,0,0" VerticalAlignment="Top" Width="142" Height="30" Click="viewReport" BorderBrush="#FF262C61" Foreground="#FF262C61" RenderTransformOrigin="0.5,0.5" >
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="1"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+    </Grid>
+</Page>

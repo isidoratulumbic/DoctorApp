@@ -1,0 +1,5 @@
+1,Nina,Ilic,281236732,Hirurg,True,09/06/2021,21/06/2021,Koristi bolovanje:12
+2,Djordje,Jovic,281236733,Opsta,True,15/06/2021,25/06/2021,Koristi slobodne dane:10
+3,Nikola,Milic,281236734,Opsta,False,-,-,-
+4,Djordje,Jovic,281236735,Dermatolog,False,-,-,-
+5,Lazar,Ikic,281236736,Hirurg,False,-,-,-

@@ -1,0 +1,372 @@
+﻿++Solution 'SIMSKT3' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:SIMSKT3.sln
+++SIMSKT3
+i:{00000000-0000-0000-0000-000000000000}:SIMSKT3
+++Properties
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\properties\
+++AssemblyInfo.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\properties\assemblyinfo.cs
+++Resources.resx
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\properties\resources.resx
+++Settings.settings
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\properties\settings.settings
+++References
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:
+++Microsoft.CSharp
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:
+++Microsoft.Expression.Interactions
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:
+++Newtonsoft.Json
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:
+++PresentationCore
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:
+++PresentationFramework
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:
+++System
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:
+++System.Core
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:
+++System.Data
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:
+++System.Data.DataSetExtensions
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:
+++System.Net.Http
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:
+++System.Windows.Interactivity
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:
+++System.Xaml
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:
+++System.Xml
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:
+++System.Xml.Linq
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:
+++WindowsBase
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:
+++Controller
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\controller\
+++AllergenWarningController.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\controller\allergenwarningcontroller.cs
+++AnamnesisController.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\controller\anamnesiscontroller.cs
+++AppointmentController.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\controller\appointmentcontroller.cs
+++DynamicEquipmentController.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\controller\dynamicequipmentcontroller.cs
+++EmployeeController.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\controller\employeecontroller.cs
+++GuestService.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\controller\guestservice.cs
+++HospitalTreatmentController.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\controller\hospitaltreatmentcontroller.cs
+++MedicalRecordController.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\controller\medicalrecordcontroller.cs
+++MedicineAlertController.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\controller\medicinealertcontroller.cs
+++MedicineController.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\controller\medicinecontroller.cs
+++NewsBoardController.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\controller\newsboardcontroller.cs
+++NotificationController.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\controller\notificationcontroller.cs
+++PatientController.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\controller\patientcontroller.cs
+++PrescriptionController.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\controller\prescriptioncontroller.cs
+++ReferralLetterForSpecialistController.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\controller\referralletterforspecialistcontroller.cs
+++ReminderController.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\controller\remindercontroller.cs
+++RenovationController.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\controller\renovationcontroller.cs
+++RequestForDaysOffController.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\controller\requestfordaysoffcontroller.cs
+++RoomController.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\controller\roomcontroller.cs
+++StaticEquipmentController.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\controller\staticequipmentcontroller.cs
+++SurveyController.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\controller\surveycontroller.cs
+++Model
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\model\
+++Address.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\model\address.cs
+++Allergen.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\model\allergen.cs
+++AllergenWarning.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\model\allergenwarning.cs
+++Anamnesis.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\model\anamnesis.cs
+++Appointment.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\model\appointment.cs
+++AppointmentType.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\model\appointmenttype.cs
+++Doctor.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\model\doctor.cs
+++DynamicEquipment.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\model\dynamicequipment.cs
+++Employee.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\model\employee.cs
+++EmployeeType.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\model\employeetype.cs
+++Feedback.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\model\feedback.cs
+++HospitalTreatment.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\model\hospitaltreatment.cs
+++MedicalRecord.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\model\medicalrecord.cs
+++Medicine.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\model\medicine.cs
+++MedicineAlert.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\model\medicinealert.cs
+++News.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\model\news.cs
+++NewsBoard.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\model\newsboard.cs
+++NotificationRefferal.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\model\notificationrefferal.cs
+++Patient.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\model\patient.cs
+++Prescription.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\model\prescription.cs
+++ReferralLetterForSpecialist.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\model\referralletterforspecialist.cs
+++Reminder.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\model\reminder.cs
+++Renovation.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\model\renovation.cs
+++RenovationType.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\model\renovationtype.cs
+++RequestForDaysOff.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\model\requestfordaysoff.cs
+++Room.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\model\room.cs
+++RoomType.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\model\roomtype.cs
+++Secretary.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\model\secretary.cs
+++StaticEquipment.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\model\staticequipment.cs
+++StatusType.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\model\statustype.cs
+++Survey.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\model\survey.cs
+++User.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\model\user.cs
+++Warehouse.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\model\warehouse.cs
+++Repository
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\repository\
+++AllergenWarningRepository.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\repository\allergenwarningrepository.cs
+++AnamnesisRepository.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\repository\anamnesisrepository.cs
+++AppointmentRepository.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\repository\appointmentrepository.cs
+++DynamicEquipmentRepository.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\repository\dynamicequipmentrepository.cs
+++EmployeeRepository.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\repository\employeerepository.cs
+++GuestAccountRepository.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\repository\guestaccountrepository.cs
+++HospitalTreatmentRepository.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\repository\hospitaltreatmentrepository.cs
+++MedicalRecordRepository.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\repository\medicalrecordrepository.cs
+++MedicineAlertRepository.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\repository\medicinealertrepository.cs
+++MedicineRepository.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\repository\medicinerepository.cs
+++NewsRepository.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\repository\newsrepository.cs
+++NotificationRepository.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\repository\notificationrepository.cs
+++PatientRepository.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\repository\patientrepository.cs
+++PrescriptionRepository.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\repository\prescriptionrepository.cs
+++ReferralLetterForSpecialistRepository.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\repository\referralletterforspecialistrepository.cs
+++ReminderRepository.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\repository\reminderrepository.cs
+++RenovationRepository.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\repository\renovationrepository.cs
+++RequestForDaysOffRepository.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\repository\requestfordaysoffrepository.cs
+++RoomRepository.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\repository\roomrepository.cs
+++StaticEquipmentRepository.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\repository\staticequipmentrepository.cs
+++SurveyRepository.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\repository\surveyrepository.cs
+++Service
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\service\
+++AllergenWarningService.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\service\allergenwarningservice.cs
+++AnamnesisService.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\service\anamnesisservice.cs
+++AppointmentService.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\service\appointmentservice.cs
+++DynamicEquipmentService.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\service\dynamicequipmentservice.cs
+++EmployeeService.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\service\employeeservice.cs
+++HospitalTreatmentService.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\service\hospitaltreatmentservice.cs
+++MedicalRecordService.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\service\medicalrecordservice.cs
+++MedicineAlertService.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\service\medicinealertservice.cs
+++MedicineService.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\service\medicineservice.cs
+++NewsBoardService.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\service\newsboardservice.cs
+++NotificationService.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\service\notificationservice.cs
+++PatientService.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\service\patientservice.cs
+++PrescriptionService.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\service\prescriptionservice.cs
+++ReferralLetterForSpecialistService.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\service\referralletterforspecialistservice.cs
+++ReminderService.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\service\reminderservice.cs
+++RenovationService.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\service\renovationservice.cs
+++RequestForDaysOffService.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\service\requestfordaysoffservice.cs
+++RoomService.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\service\roomservice.cs
+++StaticEquipmentService.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\service\staticequipmentservice.cs
+++SurveyService.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\service\surveyservice.cs
+++ValidationDoctor
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\validationdoctor\
+++View
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\view\
+++Doctor
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\view\doctor\
+++Images
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\view\doctor\images\
+++Anamnesis.xaml
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\view\doctor\anamnesis.xaml
+++AppointmentFAD.xaml
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\view\doctor\appointmentfad.xaml
+++Appointments.xaml
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\view\doctor\appointments.xaml
+++CancelMedicine.xaml
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\view\doctor\cancelmedicine.xaml
+++Doctor.xaml
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\view\doctor\doctor.xaml
+++Examination.xaml
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\view\doctor\examination.xaml
+++HospitalTreatment.xaml
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\view\doctor\hospitaltreatment.xaml
+++LogInDoctor.xaml
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\view\doctor\logindoctor.xaml
+++LogInDoctor.xaml.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\view\doctor\logindoctor.xaml.cs
+++Medicals.xaml
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\view\doctor\medicals.xaml
+++Medicals.xaml.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\view\doctor\medicals.xaml.cs
+++MyProfile.xaml
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\view\doctor\myprofile.xaml
+++Prescription.xaml
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\view\doctor\prescription.xaml
+++Prescription.xaml.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\view\doctor\prescription.xaml.cs
+++RequestForDaysOff.xaml
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\view\doctor\requestfordaysoff.xaml
+++RequestForDaysOff.xaml.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\view\doctor\requestfordaysoff.xaml.cs
+++App.config
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\app.config
+++App.xaml
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\app.xaml
+++App.xaml.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\app.xaml.cs
+++MainWindow.xaml
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\mainwindow.xaml
+++MainWindow.xaml.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\mainwindow.xaml.cs
+++packages.config
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\packages.config
+++Resources.Designer.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\properties\resources.designer.cs
+++Settings.Designer.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\properties\settings.designer.cs
+++MinimumCharacterRule.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\validationdoctor\minimumcharacterrule.cs
+++NumbersValidation.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\validationdoctor\numbersvalidation.cs
+++PasswordValidation.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\validationdoctor\passwordvalidation.cs
+++TimeValidation.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\validationdoctor\timevalidation.cs
+++anamnesis.png
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\view\doctor\images\anamnesis.png
+++appointment.png
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\view\doctor\images\appointment.png
+++back.jpg
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\view\doctor\images\back.jpg
+++date.png
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\view\doctor\images\date.png
+++desc.png
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\view\doctor\images\desc.png
+++dr.jpg
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\view\doctor\images\dr.jpg
+++end.png
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\view\doctor\images\end.png
+++equipment.png
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\view\doctor\images\equipment.png
+++hospital.png
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\view\doctor\images\hospital.png
+++id.png
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\view\doctor\images\id.png
+++login.png
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\view\doctor\images\login.png
+++logout.png
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\view\doctor\images\logout.png
+++medicines.png
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\view\doctor\images\medicines.png
+++notification.png
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\view\doctor\images\notification.png
+++patient.png
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\view\doctor\images\patient.png
+++prescription.png
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\view\doctor\images\prescription.png
+++quantity.png
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\view\doctor\images\quantity.png
+++reason.png
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\view\doctor\images\reason.png
+++referral.png
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\view\doctor\images\referral.png
+++referralLetter.png
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\view\doctor\images\referralletter.png
+++room.png
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\view\doctor\images\room.png
+++start.png
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\view\doctor\images\start.png
+++status.png
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\view\doctor\images\status.png
+++treatment.png
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\view\doctor\images\treatment.png
+++type.png
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\view\doctor\images\type.png
+++Anamnesis.xaml.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\view\doctor\anamnesis.xaml.cs
+++AppointmentFAD.xaml.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\view\doctor\appointmentfad.xaml.cs
+++Appointments.xaml.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\view\doctor\appointments.xaml.cs
+++CancelMedicine.xaml.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\view\doctor\cancelmedicine.xaml.cs
+++Doctor.xaml.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\view\doctor\doctor.xaml.cs
+++Examination.xaml.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\view\doctor\examination.xaml.cs
+++HospitalTreatment.xaml.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\view\doctor\hospitaltreatment.xaml.cs
+++MyProfile.xaml.cs
+i:{e955e993-0463-4c8d-96c0-bd3edb2b3a80}:c:\users\kompjuter\desktop\sims project\in-tim14-zdravocorp\wpf\simskt3\view\doctor\myprofile.xaml.cs

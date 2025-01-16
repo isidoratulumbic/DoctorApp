@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "patientJmbg": "1",
+    "medicinee": "Diclofenac",
+    "usage": "Cim se osete jaki bolovi, popiti jedan",
+    "quantity": 8
+  },
+  {
+    "id": 2,
+    "patientJmbg": "2",
+    "medicinee": "Bisoprolol",
+    "usage": "Ujutru pre prvog obroka",
+    "quantity": 3
+  },
+  {
+    "id": 3,
+    "patientJmbg": "3",
+    "medicinee": "Hemokulin",
+    "usage": "Sipati po dve kapi dnevno u oba oka",
+    "quantity": 1
+  },
+  {
+    "id": 4,
+    "patientJmbg": "1",
+    "medicinee": "Diazepam",
+    "usage": "Na svakih 8 sati",
+    "quantity": 3
+  },
+  {
+    "id": 5,
+    "patientJmbg": "2",
+    "medicinee": "dsa",
+    "usage": "das",
+    "quantity": 2
+  },
+  {
+    "id": 6,
+    "patientJmbg": "1",
+    "medicinee": "lanosprazol",
+    "usage": "dsadsa",
+    "quantity": 2
+  },
+  {
+    "id": 8,
+    "patientJmbg": "3",
+    "medicinee": "digoxicor",
+    "usage": "dsasad",
+    "quantity": 4
+  },
+  {
+    "id": 9,
+    "patientJmbg": "2",
+    "medicinee": "pantoprazol",
+    "usage": "dsadsa",
+    "quantity": 2
+  },
+  {
+    "id": 10,
+    "patientJmbg": "2",
+    "medicinee": "pantoprazol",
+    "usage": "dsasa",
+    "quantity": 3
+  },
+  {
+    "id": 11,
+    "patientJmbg": "2",
+    "medicinee": "pantoprazol",
+    "usage": "dsadsa",
+    "quantity": 2
+  },
+  {
+    "id": 12,
+    "patientJmbg": "2",
+    "medicinee": "pantoprazol",
+    "usage": "daasd",
+    "quantity": 2
+  },
+  {
+    "id": 13,
+    "patientJmbg": "1",
+    "medicinee": "pantoprazol",
+    "usage": "sdadsa",
+    "quantity": 2
+  }
+]

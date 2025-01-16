@@ -1,0 +1,23 @@
+[
+  {
+    "newsBoard": null,
+    "newsId": 3,
+    "title": "OTKAZAN PREGLED",
+    "text": "Otkazan je pregled u sali 4 - 12h.",
+    "date": "2021-05-22T00:00:00"
+  },
+  {
+    "newsBoard": null,
+    "newsId": 4,
+    "title": "OTKAZANA OPERACIJA",
+    "text": "Prebacena u salu 16-18h.",
+    "date": "2021-05-22T00:00:00"
+  },
+  {
+    "newsBoard": null,
+    "newsId": 1,
+    "title": "PROMENJENA OPERACIJA",
+    "text": "Promenjen termin za 20h.",
+    "date": "2021-05-22T00:00:00"
+  }
+]

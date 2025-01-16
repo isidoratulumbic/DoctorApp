@@ -1,0 +1,184 @@
+[
+  {
+    "dateOfCancelation": [
+      "2021-04-30T18:29:47.2508286+02:00",
+      "2021-05-01T15:27:01.2715104+02:00",
+      "2021-05-01T15:27:11.1768043+02:00"
+    ],
+    "isDisabled": false,
+    "isTroll": false,
+    "Patient": {
+      "jmbg": "5",
+      "firstName": "Zarko",
+      "lastName": "Zarkovic",
+      "username": "asd",
+      "password": "sifra",
+      "email": "email",
+      "address": "adresa",
+      "dateOfBirth": "1998-06-12T00:00:00",
+      "hospital": "Dom Zdravlja"
+    },
+    "prescription": [],
+    "referralLetterForSpecialist": [
+      {
+        "id": 1,
+        "doctorJmbg": "1",
+        "patientJmbg": "1",
+        "reason": "opis treci ",
+        "isUsed": false
+      },
+      {
+        "id": 2,
+        "doctorJmbg": "1",
+        "patientJmbg": "5",
+        "reason": "opis drugi ",
+        "isUsed": false
+      },
+      {
+        "id": 3,
+        "doctorJmbg": "1",
+        "patientJmbg": "2",
+        "reason": "opis prvi ",
+        "isUsed": false
+      }
+    ]
+  },
+  "appointment": [
+    {
+      "id": 1,
+      "appointmentType": 0,
+      "startTime": "2021-04-30T20:00:00",
+      "endTime": "2021-04-30T20:30:00",
+      "date": "2021-04-30T00:00:00",
+      "doctorJmbg": "1",
+      "patientJmbg": "5",
+      "roomName": "105-FR",
+      "isEmergency": "false"
+    },
+    {
+      "id": 2,
+      "appointmentType": 0,
+      "startTime": "2021-04-30T20:00:00",
+      "endTime": "2021-04-30T20:30:00",
+      "date": "2021-04-30T00:00:00",
+      "doctorJmbg": "1",
+      "patientJmbg": "6",
+      "roomName": "GB-44",
+      "isEmergency": "true"
+    },
+    {
+      "id": 3,
+      "appointmentType": 0,
+      "startTime": "2021-04-30T20:00:00",
+      "endTime": "2021-04-30T20:30:00",
+      "date": "2021-04-30T00:00:00",
+      "doctorJmbg": "3",
+      "patientJmbg": "8",
+      "roomName": "107-TA",
+      "isEmergency": "false"
+    },
+    {
+      "id": 4,
+      "appointmentType": 0,
+      "startTime": "2021-04-30T20:00:00",
+      "endTime": "2021-04-30T20:30:00",
+      "date": "2021-04-30T00:00:00",
+      "doctorJmbg": "4",
+      "patientJmbg": "5",
+      "roomName": "18-OG",
+      "isEmergency": "false"
+    }
+  ],
+  },
+  {
+    "dateOfCancelation": [
+      "2021-04-30T18:29:47.2508286+02:00",
+      "2021-05-01T15:27:01.2715104+02:00",
+      "2021-05-01T15:27:11.1768043+02:00"
+    ],
+    "isDisabled": false,
+    "isTroll": false,
+    "Patient": {
+      "jmbg": "7",
+      "firstName": "Milica",
+      "lastName": "Milic",
+      "username": "bkl",
+      "password": "sifra2",
+      "email": "email2",
+      "address": "adresa2",
+      "dateOfBirth": "1998-06-12T00:00:00",
+      "hospital": "Dom Zdravlja2"
+    },
+    "prescription": [],
+    "referralLetterForSpecialist": [
+      {
+        "id": 3,
+        "doctorJmbg": "1",
+        "patientJmbg": "10",
+        "reason": "opis treci ",
+        "isUsed": false
+      },
+      {
+        "id": 4,
+        "doctorJmbg": "1",
+        "patientJmbg": "9",
+        "reason": "opis drugi ",
+        "isUsed": false
+      },
+      {
+        "id": 5,
+        "doctorJmbg": "1",
+        "patientJmbg": "8",
+        "reason": "opis prvi ",
+        "isUsed": false
+      }
+    ]
+  },
+  "appointment": [
+    {
+      "id": 1,
+      "appointmentType": 0,
+      "startTime": "2021-04-30T20:00:00",
+      "endTime": "2021-04-30T20:30:00",
+      "date": "2021-04-30T00:00:00",
+      "doctorJmbg": "1",
+      "patientJmbg": "5",
+      "roomName": "105-FR",
+      "isEmergency": "false"
+    },
+    {
+      "id": 2,
+      "appointmentType": 0,
+      "startTime": "2021-04-30T20:00:00",
+      "endTime": "2021-04-30T20:30:00",
+      "date": "2021-04-30T00:00:00",
+      "doctorJmbg": "1",
+      "patientJmbg": "6",
+      "roomName": "GB-44",
+      "isEmergency": "true"
+    },
+    {
+      "id": 3,
+      "appointmentType": 0,
+      "startTime": "2021-04-30T20:00:00",
+      "endTime": "2021-04-30T20:30:00",
+      "date": "2021-04-30T00:00:00",
+      "doctorJmbg": "3",
+      "patientJmbg": "8",
+      "roomName": "107-TA",
+      "isEmergency": "false"
+    },
+    {
+      "id": 4,
+      "appointmentType": 0,
+      "startTime": "2021-04-30T20:00:00",
+      "endTime": "2021-04-30T20:30:00",
+      "date": "2021-04-30T00:00:00",
+      "doctorJmbg": "4",
+      "patientJmbg": "5",
+      "roomName": "18-OG",
+      "isEmergency": "false"
+    }
+  ],
+  }
+]

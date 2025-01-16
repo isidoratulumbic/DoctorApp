@@ -1,0 +1,44 @@
+﻿<Window x:Class="SIMSKT3.View.Doctor.Doctor"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SIMSKT3.View.Doctor"
+        mc:Ignorable="d"
+        Title="Doctor" Height="753" Width="1036" Background="#FF8AB3F0" >
+    <Grid>
+        <TabControl>
+            
+            <TabItem Header="My profile" Background="#FF8AB3F0" >
+                <Frame x:Name="MP" Source="MyProfile.xaml" ></Frame>
+            </TabItem>
+            <TabItem Header="Examination" Background="#FF8AB3F0" >
+                <Frame x:Name="Ex" Source="Examination.xaml"></Frame>
+            </TabItem>
+            <TabItem Header="Appointments" Background="#FF8AB3F0" >
+                <Frame x:Name="App" Source="Appointments.xaml">
+                </Frame>
+            </TabItem>
+            <TabItem Header="Medications" Background="#FF8AB3F0" >
+                <Frame x:Name="Med" Source="Medicals.xaml">
+                </Frame>
+            </TabItem>
+            <TabItem Header="Sceduling" Background="#FF8AB3F0" >
+                <Frame x:Name="Sched" Source="AppointmentFAD.xaml"></Frame>
+            </TabItem>
+            <TabItem Header="Anamnesis" Background="#FF8AB3F0" >
+                <Frame x:Name="Anam" Source="Anamnesis.xaml"></Frame>
+            </TabItem>
+            <TabItem Header="Prescriptions" Background="#FF8AB3F0" >
+                <Frame x:Name="Prescr" Source="Prescription.xaml"></Frame>
+            </TabItem>
+            <TabItem Header="Hospital treatments" Background="#FF8AB3F0" >
+                <Frame x:Name="Treat" Source="HospitalTreatment.xaml"></Frame>
+            </TabItem>
+            <TabItem Header="Requests for days off" Background="#FF8AB3F0" >
+                <Frame x:Name="Request" Source="RequestForDaysOff.xaml"></Frame>
+            </TabItem>
+
+        </TabControl>
+    </Grid>
+</Window>

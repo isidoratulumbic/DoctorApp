@@ -1,0 +1,212 @@
+[
+  {
+    "isExtensionNeeded": false,
+    "patient": null,
+    "id": 0,
+    "room": "18-OG",
+    "startDate": "2021-06-05T00:00:00",
+    "endDate": "2021-06-10T00:00:00",
+    "patientJmbg": "1",
+    "bed": "bed1"
+  },
+  {
+    "isExtensionNeeded": false,
+    "patient": null,
+    "id": 1,
+    "room": "107-TA",
+    "startDate": "2021-05-14T00:00:00",
+    "endDate": "2021-05-26T00:00:00",
+    "patientJmbg": "1",
+    "bed": "bed2"
+  },
+  {
+    "isExtensionNeeded": false,
+    "patient": null,
+    "id": 3,
+    "room": "17-LL",
+    "startDate": "2021-05-25T00:00:00",
+    "endDate": "2021-05-30T00:00:00",
+    "patientJmbg": "2",
+    "bed": "bed3"
+  },
+  {
+    "isExtensionNeeded": false,
+    "patient": null,
+    "id": 2,
+    "room": "107-TA",
+    "startDate": "2021-05-29T00:00:00",
+    "endDate": "2021-05-31T00:00:00",
+    "patientJmbg": "5",
+    "bed": "bed9"
+  },
+  {
+    "isExtensionNeeded": false,
+    "patient": null,
+    "id": 4,
+    "room": "17-LL",
+    "startDate": "2021-06-08T00:00:00",
+    "endDate": "2021-06-10T00:00:00",
+    "patientJmbg": "1",
+    "bed": "bed3"
+  },
+  {
+    "isExtensionNeeded": false,
+    "patient": null,
+    "id": 6,
+    "room": "107-TA",
+    "startDate": "2021-06-17T00:00:00",
+    "endDate": "2021-06-19T00:00:00",
+    "patientJmbg": "3",
+    "bed": "bed6"
+  },
+  {
+    "isExtensionNeeded": false,
+    "patient": null,
+    "id": 1,
+    "room": "17-LL",
+    "startDate": "2021-05-14T00:00:00",
+    "endDate": "2021-05-26T00:00:00",
+    "patientJmbg": "5",
+    "bed": "bed1"
+  },
+  {
+    "isExtensionNeeded": false,
+    "patient": null,
+    "id": 5,
+    "room": "17-LL",
+    "startDate": "2021-05-28T00:00:00",
+    "endDate": "2021-05-31T00:00:00",
+    "patientJmbg": "5",
+    "bed": "bed2"
+  },
+  {
+    "isExtensionNeeded": false,
+    "patient": null,
+    "id": 7,
+    "room": "107-TA",
+    "startDate": "2021-05-25T00:00:00",
+    "endDate": "2021-05-31T00:00:00",
+    "patientJmbg": "7",
+    "bed": "bed4"
+  },
+  {
+    "isExtensionNeeded": false,
+    "patient": null,
+    "id": 8,
+    "room": "17-LL",
+    "startDate": "2021-05-31T00:00:00",
+    "endDate": "2021-06-02T00:00:00",
+    "patientJmbg": "3",
+    "bed": "bed1"
+  },
+  {
+    "isExtensionNeeded": false,
+    "patient": null,
+    "id": 9,
+    "room": "107-TA",
+    "startDate": "2021-06-16T00:00:00",
+    "endDate": "2021-06-23T00:00:00",
+    "patientJmbg": "1",
+    "bed": "bed7"
+  },
+  {
+    "isExtensionNeeded": false,
+    "patient": null,
+    "id": 10,
+    "room": "17-LL",
+    "startDate": "2021-05-13T00:00:00",
+    "endDate": "2021-06-18T00:00:00",
+    "patientJmbg": "1",
+    "bed": "bed3"
+  },
+  {
+    "isExtensionNeeded": false,
+    "patient": null,
+    "id": 11,
+    "room": "17-LL",
+    "startDate": "2021-06-19T00:00:00",
+    "endDate": "2021-06-20T00:00:00",
+    "patientJmbg": "3",
+    "bed": "bed1"
+  },
+  {
+    "isExtensionNeeded": false,
+    "patient": null,
+    "id": 12,
+    "room": "17-LL",
+    "startDate": "2021-06-26T00:00:00",
+    "endDate": "2021-06-27T00:00:00",
+    "patientJmbg": "2",
+    "bed": "bed10"
+  },
+  {
+    "isExtensionNeeded": false,
+    "patient": null,
+    "id": 13,
+    "room": "17-LL",
+    "startDate": "2021-06-08T00:00:00",
+    "endDate": "2021-06-11T00:00:00",
+    "patientJmbg": "2",
+    "bed": "bed2"
+  },
+  {
+    "isExtensionNeeded": false,
+    "patient": null,
+    "id": 14,
+    "room": "107-TA",
+    "startDate": "2021-06-19T00:00:00",
+    "endDate": "2021-06-25T00:00:00",
+    "patientJmbg": "2",
+    "bed": "bed3"
+  },
+  {
+    "isExtensionNeeded": false,
+    "patient": null,
+    "id": 15,
+    "room": "107-TA",
+    "startDate": "2021-06-19T00:00:00",
+    "endDate": "2021-06-22T00:00:00",
+    "patientJmbg": "2",
+    "bed": "bed5"
+  },
+  {
+    "isExtensionNeeded": false,
+    "patient": null,
+    "id": 16,
+    "room": "17-LL",
+    "startDate": "2021-06-23T00:00:00",
+    "endDate": "2021-06-24T00:00:00",
+    "patientJmbg": "2",
+    "bed": "bed2"
+  },
+  {
+    "isExtensionNeeded": false,
+    "patient": null,
+    "id": 17,
+    "room": "17-LL",
+    "startDate": "2021-06-23T00:00:00",
+    "endDate": "2021-06-24T00:00:00",
+    "patientJmbg": "1",
+    "bed": "bed1"
+  },
+  {
+    "isExtensionNeeded": false,
+    "patient": null,
+    "id": 18,
+    "room": "107-TA",
+    "startDate": "2021-06-19T00:00:00",
+    "endDate": "2021-06-22T00:00:00",
+    "patientJmbg": "3",
+    "bed": "bed5"
+  },
+  {
+    "isExtensionNeeded": false,
+    "patient": null,
+    "id": 19,
+    "room": "107-TA",
+    "startDate": "2021-06-19T00:00:00",
+    "endDate": "2021-06-22T00:00:00",
+    "patientJmbg": "2",
+    "bed": "bed6"
+  }
+]

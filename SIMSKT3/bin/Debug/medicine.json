@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "name": "pantoprazol",
+    "status": "VALIDATED",
+    "description": "jako opasan lek za slobodno koriscenje",
+    "ingredients": [
+      "adrenalin",
+      "scandonest",
+      "mediapan"
+    ],
+    "alternatives": [
+      "brufen",
+      "aspirin",
+      "vitamin b"
+    ],
+    "reason": null
+  },
+  {
+    "id": 2,
+    "name": "lanosprazol",
+    "status": "VALIDATED",
+    "description": "moze se koristiti bilo kada",
+    "ingredients": [
+      "malatin"
+    ],
+    "alternatives": [
+      "kardiopirin",
+      "brufen"
+    ],
+    "reason": null
+  },
+  {
+    "id": 3,
+    "name": "pankreatin",
+    "status": "VALIDATED",
+    "description": "za pankreas ",
+    "ingredients": [
+      "adrenalin",
+      "malatin",
+      "aspart"
+    ],
+    "alternatives": [
+      "vitamin b",
+      "aspirin",
+      "malagdit"
+    ],
+    "reason": null
+  },
+  {
+    "id": 4,
+    "name": "sveprolazol",
+    "status": "VALIDATED",
+    "description": "sve prolazi",
+    "ingredients": null,
+    "alternatives": null,
+    "reason": null
+  },
+  {
+    "id": 5,
+    "name": "digoxicor",
+    "status": "VALIDATED",
+    "description": "za slepo crevo",
+    "ingredients": null,
+    "alternatives": null,
+    "reason": "zato"
+  },
+  {
+    "id": 6,
+    "name": "prestobolol",
+    "status": "VALIDATED",
+    "description": "prestaje bol",
+    "ingredients": null,
+    "alternatives": null,
+    "reason": null
+  }
+]

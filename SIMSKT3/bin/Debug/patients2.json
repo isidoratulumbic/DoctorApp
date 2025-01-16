@@ -1,0 +1,29 @@
+[
+  {
+    "id": 2,
+    "name": "Lana",
+    "surname": "Rikic",
+    "age": "25",
+    "jmbg": "1",
+    "phoneNumber": "061111111",
+    "allergen": "malatin"
+  },
+  {
+    "id": 4,
+    "name": "Relja",
+    "surname": "Bojic",
+    "age": "48",
+    "jmbg": "2",
+    "phoneNumber": "061333333",
+    "allergen": "malatin"
+  },
+  {
+    "id": 5,
+    "name": "Mara",
+    "surname": "Kojic",
+    "age": "49",
+    "jmbg": "3",
+    "phoneNumber": "061444444",
+    "allergen": "malatin"
+  }
+]

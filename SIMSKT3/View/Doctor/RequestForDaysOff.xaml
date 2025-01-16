@@ -1,0 +1,105 @@
+﻿<UserControl x:Class="SIMSKT3.View.Doctor.RequestForDaysOff"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:vml="clr-namespace:SIMSKT3.VML"
+        xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity"
+        xmlns:data="clr-namespace:SIMSKT3.Model" 
+        mc:Ignorable="d" Focusable="True" 
+        Height="753" Width="1036" Background="#FFD0B8E5">
+<!--
+    <UserControl.InputBindings>
+        <KeyBinding
+            Modifiers="Control" 
+            Key="B"
+            Command="{Binding AddCommand}"/>
+    </UserControl.InputBindings>
+    -->
+    
+    <UserControl.Resources>
+        <DataTemplate DataType="{x:Type data:Request}">
+            <StackPanel Orientation="Horizontal">
+                <TextBox Text="{Binding Path=Id, Mode=TwoWay}" Width="100"/>
+                <TextBox Text="{Binding Path=From, Mode=TwoWay}" Width="100"/>
+                <TextBox Text="{Binding Path=To, Mode=TwoWay}" Width="100"/>
+                <TextBox Text="{Binding Path=Reason, Mode=TwoWay}" Width="100"/>
+                <TextBox Text="{Binding Path=Status, Mode=TwoWay}" Width="100"/>
+                <TextBox Text="{Binding Path=Description, Mode=TwoWay}" Width="100"/>
+
+            </StackPanel>
+        </DataTemplate>
+    </UserControl.Resources>
+
+    <!--  <Page.DataContext>
+        <local:RequestViewModel/>
+    </Page.DataContext>
+
+    <Page.Resources>
+        <Style x:Key="ListViewStyle" TargetType="{x:Type GridViewColumnHeader}">
+            <Setter Property="HorizontalContentAlignment" Value="Left" />
+        </Style>
+    </Page.Resources>-->
+
+    <Grid>
+        <!--
+        <ListBox ItemsSource="{Binding Requests}" Margin="0,122,0,446"/>
+        
+        <ListView Margin="0,83,0,387" ItemsSource="{Binding Requests}" HorizontalAlignment="Center" HorizontalContentAlignment="Left" Width="740">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn  Header="ID" Width="25" DisplayMemberBinding="{Binding Id}" />
+                    <GridViewColumn  Header="FROM" Width="100" DisplayMemberBinding="{Binding From}" />
+                    <GridViewColumn  Header="TO" Width="100" DisplayMemberBinding="{Binding To}" />
+                    <GridViewColumn  Header="REASON" Width="100" DisplayMemberBinding="{Binding Reason}" />
+                    <GridViewColumn  Header="STATUS" Width="100" DisplayMemberBinding="{Binding Status}" />
+                    <GridViewColumn  Header="REASON OF REJECTION" Width="150" DisplayMemberBinding="{Binding Description}" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Label Content="Request for days off" FontSize="35" FontFamily="Times New Roman" HorizontalAlignment="Left" Margin="349,4,0,0" VerticalAlignment="Top" Foreground="#FF262C61"/>
+        <Border BorderBrush="#FF262C61" BorderThickness="1" HorizontalAlignment="Left" Height="1" Margin="284,50,0,0" VerticalAlignment="Top" Width="425"/>
+        <Label Content="List of all requests:" HorizontalAlignment="Left" Margin="408,50,0,0" VerticalAlignment="Top" FontFamily="Arial" FontSize="20" Foreground="#FF262C61"/>
+        <Rectangle Fill="#FFA694B7" HorizontalAlignment="Center" Height="280" Stroke="#FF262C61" VerticalAlignment="Top" Width="740" Margin="0,376,0,0"/>
+        <Label Content="ID:" HorizontalAlignment="Left" Margin="410,411,0,0" VerticalAlignment="Top" FontSize="13" Foreground="#FF262C61"/>
+        <Label Content="FROM:" HorizontalAlignment="Left" Margin="410,438,0,0" VerticalAlignment="Top" FontSize="13" Foreground="#FF262C61"/>
+        <Label Content="TO:" HorizontalAlignment="Left" Margin="410,470,0,0" VerticalAlignment="Top" FontSize="13" Foreground="#FF262C61"/>
+        <Label Content="REASON:" HorizontalAlignment="Left" Margin="407,502,0,0" VerticalAlignment="Top" FontSize="13" Foreground="#FF262C61"/>
+        <TextBox x:Name="textbox1" HorizontalAlignment="Left" Margin="474,416,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <DatePicker x:Name="dp1" HorizontalAlignment="Left" Margin="474,441,0,0" VerticalAlignment="Top" Width="120"/>
+        <DatePicker x:Name="dp2" HorizontalAlignment="Left" Margin="474,473,0,0" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textbox2" HorizontalAlignment="Left" Margin="474,507,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120" Height="73"/>
+        <Button Content="Create"
+                    Command="{Binding AddCommand}" Margin="796,661,148,52"/>/-->
+
+        <Label Content="Request for days off" FontSize="35" FontFamily="Times New Roman" HorizontalAlignment="Left" Margin="349,4,0,0" VerticalAlignment="Top" Foreground="#FF262C61"/>
+        <Border BorderBrush="#FF262C61" BorderThickness="1" HorizontalAlignment="Left" Height="1" Margin="284,50,0,0" VerticalAlignment="Top" Width="425"/>
+        <Label Content="List of all requests:" HorizontalAlignment="Left" Margin="408,50,0,0" VerticalAlignment="Top" FontFamily="Arial" FontSize="20" Foreground="#FF262C61"/>
+        <StackPanel Orientation="Vertical">
+            <!--ListBox by default calls ToString when trying to display the objects 
+            in the collection. 
+            Therefore, if the Student object overrides the ToString method, 
+            then the ListBox displays the string representation-->
+
+            <!--One way to do that is to set the ItemTemplate property of the 
+            ListBox to a DataTemplate.-->
+            <ListBox ItemsSource="{Binding Requests}" Height="246" Margin="0,92,0,0" VerticalAlignment="Top" Width="740" BorderBrush="#FF262C61" FontFamily="Segoe UI" Foreground="#FF262C61"/>
+            <StackPanel Orientation="Vertical" Height="114" Width="481">
+                <StackPanel Orientation="Horizontal">
+                    <Label FontSize="13" Foreground="#FF262C61">ID:</Label>
+                    <TextBox Text="{Binding IDText}" Width="70"/>
+                    <Label FontSize="13" Foreground="#FF262C61">FROM:</Label>
+                    <TextBox Text="{Binding FROMText}" Width="70"/>
+                    <Label FontSize="13" Foreground="#FF262C61">TO:</Label>
+                    <TextBox Text="{Binding TOText}" Width="70"/>
+                    <Label Foreground="#FF262C61" FontSize="13">REASON:</Label>
+                    <TextBox Text="{Binding REASONText}" Width="70"/>
+                </StackPanel>
+                <Button Content="Create" Background="#FF8AB3F0" Foreground="#FF262C61"
+                    Width="108"
+                    Height="30"
+                    Command="{Binding AddCommand}"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</UserControl>

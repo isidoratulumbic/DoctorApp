@@ -1,0 +1,65 @@
+[
+  {
+    "medicalRecord": null,
+    "id": 1,
+    "name": "Glavobolja",
+    "description": "Bol u malom mozgu",
+    "patientJmbg": "1"
+  },
+  {
+    "medicalRecord": null,
+    "id": 2,
+    "name": "Infekcija usne duplje",
+    "description": "Pojavilo se crvenilo u grlu",
+    "patientJmbg": "1"
+  },
+  {
+    "medicalRecord": null,
+    "id": 3,
+    "name": "Glavobolja",
+    "description": "Pacijent povremeno gubi svest",
+    "patientJmbg": "2"
+  },
+  {
+    "medicalRecord": null,
+    "id": 4,
+    "name": "Visoka temperatura",
+    "description": " Pacijent ima visoku telesnu temperaturu",
+    "patientJmbg": "3"
+  },
+  {
+    "medicalRecord": null,
+    "id": 5,
+    "name": "Bol u stomaku ",
+    "description": "dsaasdsad",
+    "patientJmbg": "3"
+  },
+  {
+    "medicalRecord": null,
+    "id": 1,
+    "name": "dsa",
+    "description": "dsa",
+    "patientJmbg": "1"
+  },
+  {
+    "medicalRecord": null,
+    "id": 6,
+    "name": "gaagaagaa",
+    "description": "gagagaga",
+    "patientJmbg": "2"
+  },
+  {
+    "medicalRecord": null,
+    "id": 7,
+    "name": "ooooo",
+    "description": "eeeee",
+    "patientJmbg": "1"
+  },
+  {
+    "medicalRecord": null,
+    "id": 8,
+    "name": "asaaaaa",
+    "description": "saaaaaaaa",
+    "patientJmbg": "1"
+  }
+]

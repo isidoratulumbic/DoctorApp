@@ -1,0 +1,99 @@
+[
+  {
+    "id": 1,
+    "jmbg": "28123452011",
+    "firstName": "Zarko",
+    "lastName": "Zarkovic",
+    "username": "user1",
+    "password": "sifra1",
+    "email": "email1",
+    "address": "adresa1",
+    "dateOfBirth": "1998-06-12T00:00:00",
+    "hospital": "Dom Zdravlja 1"
+  },
+  {
+    "id": 2,
+    "jmbg": "28123452012",
+    "firstName": "Mila",
+    "lastName": "Milic",
+    "username": "user2",
+    "password": "sifra2",
+    "email": "email2",
+    "address": "adresa2",
+    "dateOfBirth": "1995-10-12T00:00:00",
+    "hospital": "Dom Zdravlja 2"
+  },
+
+  {
+    "id": 3,
+    "jmbg": "28123452013",
+    "firstName": "Nikola",
+    "lastName": "Nikolic",
+    "username": "user3",
+    "password": "sifra3",
+    "email": "email3",
+    "address": "adresa3",
+    "dateOfBirth": "1972-11-10T00:00:00",
+    "hospital": "Dom Zdravlja 3"
+  },
+  {
+    "id": 4,
+    "jmbg": "28123452014",
+    "firstName": "Sava",
+    "lastName": "Savic",
+    "username": "user4",
+    "password": "sifra4",
+    "email": "email4",
+    "address": "adresa4",
+    "dateOfBirth": "1966-11-06T00:00:00",
+    "hospital": "Dom Zdravlja 4"
+  },
+  {
+    "id": 5,
+    "jmbg": "28123452015",
+    "firstName": "Lazar",
+    "lastName": "Lazic",
+    "username": "user5",
+    "password": "sifra5",
+    "email": "email5",
+    "address": "adresa5",
+    "dateOfBirth": "1936-03-09T00:00:00",
+    "hospital": "Dom Zdravlja 5"
+  },
+  {
+    "id": 6,
+    "jmbg": "281234520116",
+    "firstName": "Marko",
+    "lastName": "Mikic",
+    "username": "user6",
+    "password": "sifra6",
+    "email": "email6",
+    "address": "adresa6",
+    "dateOfBirth": "1993-07-01T00:00:00",
+    "hospital": "Dom Zdravlja 6"
+  },
+  {
+    "id": 7,
+    "jmbg": "28123452017",
+    "firstName": "Ivica",
+    "lastName": "Ivic",
+    "username": "user7",
+    "password": "sifra7",
+    "email": "email7",
+    "address": "adresa7",
+    "dateOfBirth": "1990-04-11T00:00:00",
+    "hospital": "Dom Zdravlja 7"
+  },
+  {
+    "id": 8,
+    "jmbg": "28123452018",
+    "firstName": "Ljuban",
+    "lastName": "Ljubic",
+    "username": "user8",
+    "password": "sifra8",
+    "email": "email8",
+    "address": "adresa8",
+    "dateOfBirth": "1954-06-06T00:00:00",
+    "hospital": "Dom Zdravlja 8"
+  }
+]

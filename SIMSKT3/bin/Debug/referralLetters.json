@@ -1,0 +1,110 @@
+[
+  {
+    "doctor": null,
+    "doctorJmbg": null,
+    "patient": null,
+    "id": 1,
+    "reason": "Neki razlog 2",
+    "isUsed": false,
+    "patientJmbg": "1",
+    "type": "Examination",
+    "doctorr": "Marina Ilic",
+    "Patient": null
+  },
+  {
+    "doctor": null,
+    "doctorJmbg": null,
+    "patient": null,
+    "id": 2,
+    "reason": "Neki razlog 2",
+    "isUsed": false,
+    "patientJmbg": "1",
+    "type": "Examination",
+    "doctorr": "Nikola Milic",
+    "Patient": null
+  },
+  {
+    "doctor": null,
+    "doctorJmbg": null,
+    "patient": null,
+    "id": 3,
+    "reason": "Neki razlog 3",
+    "isUsed": false,
+    "patientJmbg": "2",
+    "type": "Operation",
+    "doctorr": "Natalija Maric",
+    "Patient": null
+  },
+  {
+    "doctor": null,
+    "doctorJmbg": null,
+    "patient": null,
+    "id": 4,
+    "reason": "Neki razlog 4",
+    "isUsed": false,
+    "patientJmbg": "3",
+    "type": "Admition",
+    "doctorr": "Nikola Milic",
+    "Patient": null
+  },
+  {
+    "doctor": null,
+    "doctorJmbg": null,
+    "patient": null,
+    "id": 5,
+    "reason": "Neki razlog 5",
+    "isUsed": false,
+    "patientJmbg": "1",
+    "type": "Examination",
+    "doctorr": "Marina Ilic",
+    "Patient": null
+  },
+  {
+    "doctor": null,
+    "doctorJmbg": null,
+    "patient": null,
+    "id": 6,
+    "reason": "Neki razlog 5",
+    "isUsed": false,
+    "patientJmbg": "1",
+    "type": "Operation",
+    "doctorr": "Marina Ilic",
+    "Patient": null
+  },
+  {
+    "doctor": null,
+    "doctorJmbg": null,
+    "patient": null,
+    "id": 7,
+    "reason": "Neki razlog 6",
+    "isUsed": false,
+    "patientJmbg": "1",
+    "type": "Admition",
+    "doctorr": "281236732",
+    "Patient": null
+  },
+  {
+    "doctor": null,
+    "doctorJmbg": null,
+    "patient": null,
+    "id": 8,
+    "reason": "adas",
+    "isUsed": false,
+    "patientJmbg": "1",
+    "type": "Admition",
+    "doctorr": "281236734",
+    "Patient": null
+  },
+  {
+    "doctor": null,
+    "doctorJmbg": null,
+    "patient": null,
+    "id": 9,
+    "reason": "pogledaj ga",
+    "isUsed": false,
+    "patientJmbg": "2",
+    "type": "Examination",
+    "doctorr": "281236734",
+    "Patient": null
+  }
+]
