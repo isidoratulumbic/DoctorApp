@@ -31,8 +31,12 @@ Make sure you have the following installed:
     After launching the app, you will see a button labeled "Options doctor" on the main screen.
 
     Click on the "Options doctor" button to navigate to the login page.
+   
     Enter the following credentials to log in:
+   
     -**Username**: lekar
+   
     -**Password**: in45
+   
 This will grant you access to the doctor’s interface where you can manage appointments, prescriptions, and patient records.
 
